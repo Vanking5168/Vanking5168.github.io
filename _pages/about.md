@@ -41,6 +41,7 @@ This website is created for my Assignment. Here, I will showcase my AI-assisted 
 
 Below is my Sentiment Analysis application powered by Hugging Face Spaces:
 
+<script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/4.41.0/gradio.js"></script>
 <gradio-app src="https://vanking5168-sentiment-analysis-demo.hf.space" theme_mode="light"></gradio-app>
 
 *Try typing something like "I love this course!" or "This is difficult" to see the AI analyze the sentiment.*
