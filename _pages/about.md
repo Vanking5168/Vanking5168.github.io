@@ -41,11 +41,13 @@ This website is created for my Assignment. Here, I will showcase my AI-assisted 
 
 Below is my Sentiment Analysis application powered by Hugging Face Spaces:
 
-<iframe 
-  src="https://vanking5168-sentiment-analysis-demo.hf.space" 
-  width="100%" 
-  height="600" 
-  style="border:none; border-radius: 10px; box-shadow
+<iframe
+  src="https://vanking5168-sentiment-analysis-demo.hf.space"
+  width="100%"
+  height="600"
+  style="border:none; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
+  frameborder="0"
+></iframe>
 
 *Try typing something like "I love this course!" or "This is difficult" to see the AI analyze the sentiment.*
 
