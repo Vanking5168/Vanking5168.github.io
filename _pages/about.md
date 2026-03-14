@@ -37,5 +37,13 @@ This website is created for my Assignment. Here, I will showcase my AI-assisted 
 - Email: fengqingwu@ln.hk
 - GitHub: github.com/Vanking5168
 
+### My AI Project Demo
+
+Below is my Sentiment Analysis application powered by Hugging Face Spaces:
+
+<gradio-app src="https://vanking5168-sentiment-analysis-demo.hf.space" theme_mode="light"></gradio-app>
+
+*Try typing something like "I love this course!" or "This is difficult" to see the AI analyze the sentiment.*
+
 
 
